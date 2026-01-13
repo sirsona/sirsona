@@ -1,16 +1,26 @@
-## Hi there 👋
+# Salah Mohamed
 
-<!--
-**sirsona/sirsona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist & Analytics Engineer
 
-Here are some ideas to get you started:
+I’m a data scientist focused on extracting actionable insights from data through
+statistical analysis, machine learning, and reliable data pipelines. I care about
+data quality, reproducibility, and models that support real decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+- Data Analysis: Python, Pandas, NumPy
+- Machine Learning: scikit-learn, feature engineering, model evaluation
+- Statistics: exploratory data analysis, hypothesis testing
+- Databases & Querying:PostgreSQL, SQL, SQLite
+- Visualization: Matplotlib, Seaborn
+- Engineering: APIs, data pipelines, Git, Linux
+
+### What I Work On
+- Cleaning and analyzing real-world datasets  
+- Building predictive and classification models  
+- Automating data workflows and reporting  
+- Integrating ML models into backend services  
+
+### Focus
+- Interpretable models over black-box solutions  
+- Clean datasets and reproducible experiments  
+- Practical impact, not just accuracy
