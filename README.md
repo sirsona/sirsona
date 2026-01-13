@@ -1,6 +1,6 @@
 # Salah Mohamed
 
-## Data Scientist & Analytics Engineer
+## Data Scientist & Data Engineer
 
 I’m a data scientist focused on extracting actionable insights from data through
 statistical analysis, machine learning, and reliable data pipelines. I care about
