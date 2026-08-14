@@ -16,6 +16,9 @@ I enjoy building systems that move data efficiently, expose useful APIs, and pro
 * Batch and event-driven processing
 * Apache Kafka
 * Apache Airflow
+* dbt
+* Snowflake
+* Databricks
 
 **Backend Engineering**
 
