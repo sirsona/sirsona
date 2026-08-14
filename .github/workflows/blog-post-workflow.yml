@@ -1,0 +1,24 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/sirsona"
+          max_post_count: 5
+          comment_tag_name: BLOG-POST-LIST
+          template: "$newline- <b><a href='$url'>$title</a></b> — $date"
