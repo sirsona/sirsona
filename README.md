@@ -96,23 +96,21 @@ My work focuses on **reliability, scalability, automation, and maintainability**
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sirsona&show_icons=true&theme=github_dark&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sirsona&show_icons=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sirsona&show_icons=true&theme=github_dark" />
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sirsona&theme=github-dark-blue&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sirsona&theme=default&hide_border=true">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sirsona&theme=github-dark-blue&hide_border=true" />
   </picture>
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirsona&layout=compact&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirsona&layout=compact&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirsona&layout=compact&theme=github_dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sirsona&theme=github-dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sirsona&theme=github-light&hide_border=true">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sirsona&theme=github-dark&hide_border=true" />
   </picture>
 </p>
 
