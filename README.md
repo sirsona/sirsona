@@ -1,31 +1,61 @@
 # Salah Mohamed
 
-## Data Engineer
+## Data Engineer | Full Stack Engineer
 
-I’m a Data Engineer focused on extracting actionable insights from data through
-statistical analysis, machine learning, and reliable data pipelines. I care about
-data quality, reproducibility, and models that support real decision-making.
+I build data-intensive applications, scalable backend systems, and modern web applications. My work focuses on **data engineering, backend development, and full-stack software engineering**, with an emphasis on reliability, automation, and maintainable system design.
+
+I enjoy building systems that move data efficiently, expose useful APIs, and provide practical solutions for analytics, operations, and decision-making.
 
 ### Core Skills
-- Data Engineering: ETL/ELT pipelines, data ingestion, data transformation, workflow automation
-- Programming: Python, SQL, Bash
-- Databases: PostgreSQL, SQLite, schema design, query optimization
-- Data Processing: Pandas, NumPy, batch data processing
-- Pipeline Orchestration: data workflows, job scheduling, pipeline monitoring concepts
-- APIs & Integration: REST APIs, data extraction from external services
-- Version Control & Systems: Git, Linux, command-line tools
-- Data Quality: data validation, cleaning, consistency checks
 
-### What I Work On
-- Building and maintaining ETL/ELT data pipelines
-- Ingesting, transforming, and structuring raw data for analytics use
-- Automating data workflows, reporting, and batch processing jobs
-- Designing and optimizing data workflows for reliability and scalability
-- Integrating data sources through APIs and database systems
+**Data Engineering**
 
-### Focus
-- Reliable, scalable, and maintainable data pipelines
-- Data quality, consistency, and reproducibility across systems
-- Efficient data processing and workflow automation
-- Building data systems that support analytics and decision-making
-- Practical, production-ready solutions over experimental setups
+* ETL/ELT pipelines
+* Data ingestion and transformation
+* Workflow automation
+* Batch and event-driven processing
+* Apache Kafka
+* Apache Airflow
+
+**Backend Engineering**
+
+* Python
+* Node.js
+* Express.js
+* FastAPI
+* REST API development
+* Authentication & authorization
+
+**Full Stack Development**
+
+* Next.js
+* React
+* TypeScript
+* JavaScript
+* Tailwind CSS
+
+**Databases**
+
+* PostgreSQL
+* SQLite
+* Schema design
+* Query optimization
+* Data modeling
+
+**DevOps & Tools**
+
+* Docker
+* Git & GitHub
+* Linux
+* CI/CD workflows
+
+### What I’m Building
+
+* Scalable ETL/ELT data pipelines
+* Real-time streaming applications
+* Backend APIs and automation systems
+* Full-stack web applications
+* Operational analytics and reporting platforms
+* Workflow automation tools
+
+
