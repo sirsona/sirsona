@@ -117,7 +117,11 @@ My work focuses on **reliability, scalability, automation, and maintainability**
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- <b><a href='https://dev.to/sirsona/oltp-vs-olap-understanding-the-foundation-of-modern-data-systems-3agm'>OLTP vs OLAP : Understanding the Foundation of Modern Data Systems</a></b> — Thu Jul 09 2026 9:22 AM
+- <b><a href='https://dev.to/sirsona/how-to-connect-power-bi-to-a-postgresql-database-localhost-and-aiven-cloud-22j3'>How to Connect Power BI to a PostgreSQL Database &lpar;Localhost and Aiven Cloud&rpar;</a></b> — Sat Mar 14 2026 3:59 PM
+- <b><a href='https://dev.to/sirsona/understanding-joins-and-window-functions-1a1m'>Understanding SQL Joins and Window Functions</a></b> — Sat Mar 07 2026 7:06 PM
+- <b><a href='https://dev.to/sirsona/translate-messy-data-dax-and-dashboards-into-action-using-power-bi-33l9'>Translate Messy Data, DAX, and Dashboards into Action Using Power BI</a></b> — Mon Feb 09 2026 6:43 AM
+- <b><a href='https://dev.to/sirsona/schema-and-data-modelling-in-power-bi-a-comprehensive-guide-4md4'>Schema And Data Modelling in Power BI: A Comprehensive Guide</a></b> — Mon Feb 02 2026 5:07 AM<!-- BLOG-POST-LIST:END -->
 
 I write technical articles and tutorials on **data engineering, SQL, Power BI, backend development, and modern data systems**.
 
