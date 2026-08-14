@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.jpg" width="120" alt="Salah Mohamed" />
+<img src="https://avatars.githubusercontent.com/u/8405068?s=200" width="120" height="120" alt="Salah Mohamed" />
 
 # 👋 Hi, I'm Salah Mohamed
 
